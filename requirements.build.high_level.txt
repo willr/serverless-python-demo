@@ -1,0 +1,30 @@
+# CDK
+aws-cdk-lib
+constructs
+cdk-nag
+aws-cdk.aws-lambda-python-alpha
+cdk-monitoring-constructs
+# DEV
+pytest
+pytest-mock
+pycodestyle
+pytest-cov
+pytest-html
+python-dateutil
+python-dotenv
+GitPython
+radon
+xenon
+pre-commit
+mkdocs-material
+mkdocs-git-revision-date-plugin
+types-cachetools
+mypy
+types-requests
+toml
+mypy-boto3-events
+pytest-socket
+mkdocstrings
+mkdocstrings-python
+ruff
+stamina
